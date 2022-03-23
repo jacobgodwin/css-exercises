@@ -12,8 +12,8 @@
 }
 
 .button {
-  background-color: #ffc0cb;
-  color: black;
+  background-color: rgb(255, 255, 255);
+  color: rgb(0, 0, 0);
   font-size: 20px;
 }
 
